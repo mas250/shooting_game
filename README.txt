@@ -1,0 +1,3 @@
+This android game is a tower offence shooter. There are five difficult levels which effect the speed, size and number of targets. the aim of the game is to score as many points as possible within the time limit. 
+
+For each target hit you will receive more time, for every hit of the blocker, you will loose time and points. I hope you enjoy it and would appreciate suggestions or help on ays to improve this game!
