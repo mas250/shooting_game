@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.matbook.ca1.GameLaunchActivity">
+
+
+    <view
+        class="com.example.matbook.ca1.CannonView"
+        id="@+id/view"
+        layout_alignParentStart="true"
+        layout_alignParentTop="true"
+        layout_marginStart="88dp"
+        layout_marginTop="77dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+</RelativeLayout>

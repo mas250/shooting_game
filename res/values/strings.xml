@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CA1</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_about">about</string>
+    <string name="results_format">You fired %1$d\nTime Taken: %2$.1f</string>
+    <string name="new_game">New Game</string>
+    <string name="win">You win!</string>
+    <string name="lose">You lose :-(</string>
+    <string name="reset_game">Reset Game</string>
+
+    <string name="time_remaining_format">Time remaining: %.1f seconds</string>
+    <string name="title_activity_game_launch">GameLaunch</string>
+</resources>
